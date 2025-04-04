@@ -1,9 +1,14 @@
 # Final Project Proposal
 
+
 ## Team Members
 - **Aditi Ashutosh Deodhar**  002279575  
 - **Lenin Kumar Gorle**       002803806  
 - **Poorvika Girish Babu**    002801388
+
+
+## Project Proposal Document
+https://codelabs-preview.appspot.com/?file_id=1JsffYNMnjsfKuWMDT9yNnjYK88DOLlOBHpt1wKgdW4A/#0
 
 
 ## Project Overview
@@ -24,6 +29,3 @@ Whether it’s surfacing the right LeetCode questions, offering role-specific in
 
 ## Architecture Diagram
 ![multi_agent_rag_pipeline](https://github.com/user-attachments/assets/f2176ad6-708a-4a3d-98cc-392191cadb80)
-
-## Codelabs Documentation
-https://codelabs-preview.appspot.com/?file_id=1JsffYNMnjsfKuWMDT9yNnjYK88DOLlOBHpt1wKgdW4A/#0
