@@ -28,4 +28,5 @@ Whether it’s surfacing the right LeetCode questions, offering role-specific in
 
 
 ## Architecture Diagram
-![multi_agent_rag_pipeline](https://github.com/user-attachments/assets/f2176ad6-708a-4a3d-98cc-392191cadb80)
+![updated_multi_agent_pipeline](https://github.com/user-attachments/assets/c897dcce-ac2a-40d3-a354-78d6bf651880)
+
